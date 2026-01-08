@@ -7,7 +7,7 @@
 <div style="display: flex; align-items: center; justify-content: center;">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Waving Hand" width="15%" />
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Sans&weight=500&size=30&duration=2500&pause=400&color=7B7B7B&background=FFFFFF68&center=true&vCenter=true&random=false&width=500&height=60&lines=Welcome+to+my+GitHub+profile!;A+Passsionate+Data+Scientist;National+Award+Winner;2%2B+years+of+experience" width="84%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Sans&weight=500&size=30&duration=2500&pause=400&color=36BCF7FF&background=00000000&center=true&vCenter=true&random=false&width=500&height=60&lines=Welcome+to+my+GitHub+profile!;A+Passsionate+Data+Scientist;National+Award+Winner;2%2B+years+of+experience" width="84%" />
 </div>
 
 
