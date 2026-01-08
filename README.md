@@ -22,7 +22,7 @@
 <br />
 <div>
   <img align="center" src="https://github-readme-stats-matin.vercel.app/api/top-langs/?username=ritesh-pandey138&layout=compact&theme=react" alt="ritesh-pandey138 github readme top-langs" width="39%" />
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ritesh-pandey138&theme=merko" alt="ritesh-pandey138 github readme activity graph" width="60%" />
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ritesh-pandey138&theme=react" alt="ritesh-pandey138 github readme activity graph" width="60%" />
 </div>
 
 <br />
